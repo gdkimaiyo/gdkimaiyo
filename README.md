@@ -1,3 +1,3 @@
-## gdkimaiyo
+## GD Kimaiyo
 ### This is a pilot repo
 More coming...

@@ -5,11 +5,12 @@
 
 ## Hi there, I'm Gideon Kimaiyo 👋
 
-### 🚀 Senior Full-Stack Software & DevOps Engineer
+### 🚀 Full-Stack & DevOps Engineer
 
 <!-- I craft scalable web applications, design robust cloud architectures, and optimize automated CI/CD pipelines. Passionate about solving complex algorithmic challenges and building impactful digital solutions. -->
 
 I build secure, scalable software solutions and design robust cloud architectures that solve real world problems. Passionate about solving  and building impactful digital solutions.
+
 
 
 ## 🛠️ Tech Stack & Tools
@@ -61,6 +62,7 @@ I build secure, scalable software solutions and design robust cloud architecture
   </tr>
 </table>
 
+
 <!-- * 🔭 **Building:** Scalable microservices and cloud deployment automation pipelines. -->
 * 🎓 **Exploring:** Advanced system architecture & optimisation strategies.
 * 💬 **Ask me about:** Python, TypeScript, React, Docker and DevOps workflows.
@@ -72,12 +74,13 @@ I build secure, scalable software solutions and design robust cloud architecture
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdkimaiyo&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p> -->
 
+
+
 ## 📫 Connect & Contacts
 
 Feel free to reach out for collaborations, technical inquiries, or just to say hi!
 
 <p>Email: <a href="mailto:gdkimaiyo@gmail.com">gdkimaiyo@gmail.com</a></p>
-
 [LinkedIn](https://linkedin.com/in/gideon-kimaiyo)
 [Portfolio](https://gideonkimaiyo.netlify.app)
 

@@ -76,9 +76,9 @@ I build secure, scalable software solutions and design robust cloud architecture
 
 Feel free to reach out for collaborations, technical inquiries, or just to say hi!
 
-<p>Email: <a href="mailto:gdkimaiyo@gmail.com">gdkimaiyo@gmail.com</a></p>
-[LinkedIn](https://linkedin.com/in/gideon-kimaiyo)<p>
-<p>[Portfolio](https://gideonkimaiyo.netlify.app)</p>p
+<p>Email: <a href="mailto:gdkimaiyo@gmail.com">gdkimaiyo@gmail.com</a> <br />
+[LinkedIn](https://linkedin.com/in/gideon-kimaiyo) <br />
+<p>[Portfolio](https://gideonkimaiyo.netlify.app)</p>
 <!-- <p>[Twitter](https://x.com/gideonGDK)</p> -->
 
 <!-- <p align="left">

@@ -13,7 +13,7 @@ I build secure, scalable software solutions and design robust cloud architecture
 
 
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies
 
 <table>
   <tr>
@@ -84,7 +84,7 @@ I build secure, scalable software solutions and design robust cloud architecture
 
 
 
-## 📫 Connect & Contacts
+## 📫 Connect
 
 Feel free to reach out for collaborations, technical inquiries, or just to say hi!
 

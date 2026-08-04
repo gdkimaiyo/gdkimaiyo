@@ -30,10 +30,6 @@ I build secure, scalable software solutions and design robust cloud architecture
       <br><sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-      <br><sub><b>Django</b></sub>
-    </td>
-    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
       <br><sub><b>React</b></sub>
     </td>
@@ -51,6 +47,10 @@ I build secure, scalable software solutions and design robust cloud architecture
     </td>
   </tr>
   <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+      <br><sub><b>Django</b></sub>
+    </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
       <br><sub><b>Node.js</b></sub>

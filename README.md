@@ -37,8 +37,6 @@ I build secure, scalable software solutions and design robust cloud architecture
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
       <br><sub><b>React</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue" />
       <br><sub><b>Vue.js</b></sub>
@@ -48,8 +46,18 @@ I build secure, scalable software solutions and design robust cloud architecture
       <br><sub><b>Angular</b></sub>
     </td> -->
     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" width="40" height="40" alt="chakraui" />
+      <br><sub><b>ChakraUI</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
       <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb" />
+      <br><sub><b>MongoDB</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />

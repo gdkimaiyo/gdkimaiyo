@@ -3,7 +3,7 @@
 
 <!-- I am open to work. Feel free to email me on [gdkimaiyo@gmail.com](mailto:gdkimaiyo@gmail.com) -->
 
-# Hi there, I'm Gideon Kimaiyo 👋
+## Hi there, I'm Gideon Kimaiyo 👋
 
 ### 🚀 Senior Full-Stack Software & DevOps Engineer
 
@@ -11,7 +11,6 @@
 
 I build secure, scalable software solutions and design robust cloud architectures that solve real world problems. Passionate about solving  and building impactful digital solutions.
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -62,29 +61,26 @@ I build secure, scalable software solutions and design robust cloud architecture
   </tr>
 </table>
 
----
-
-## 📌 Currently Working On
 <!-- * 🔭 **Building:** Scalable microservices and cloud deployment automation pipelines. -->
 * 🎓 **Exploring:** Advanced system architecture & optimisation strategies.
 * 💬 **Ask me about:** Python, TypeScript, React, Docker and DevOps workflows.
 
----
+<!-- ## 📊 GitHub Analytics -->
 
-## 📊 GitHub Analytics
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gdkimaiyo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdkimaiyo&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
+</p> -->
 
 ## 📫 Connect & Contacts
 
 Feel free to reach out for collaborations, technical inquiries, or just to say hi!
+Email: 
+[LinkedIn](https://linkedin.com/in/gideon-kimaiyo)
+[Portfolio](https://gideonkimaiyo.netlify.app)
+[Twitter](https://x.com/gideonGDK)
 
-<p align="left">
+<!-- <p align="left">
   <a href="mailto:gdkimaiyo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -97,9 +93,7 @@ Feel free to reach out for collaborations, technical inquiries, or just to say h
   <a href="https://x.com/gideonGDK">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</p>
-
----
+</p> -->
 
 <!-- <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
